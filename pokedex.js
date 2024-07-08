@@ -31,7 +31,7 @@ const createPokemonCard =(pokemon)=>{
     <div class="pokemon" style="background-color: rgb(222, 253, 224)">
         <div class="img-container">
           <img
-            src=https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${pokemon.id}.png"" alt="${name}"
+            src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${pokemon.id}.png" alt="${name}"
           />
         </div>
         <div class="info">
